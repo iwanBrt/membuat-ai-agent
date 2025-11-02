@@ -1,0 +1,14 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant."
+    },
+    {
+        "role": "user",
+        "content": "halo aku iwan"
+    },
+    {
+        "role": "assistant",
+        "content": "Halo Iwan! Ada yang bisa saya bantu hari ini?"
+    }
+]
