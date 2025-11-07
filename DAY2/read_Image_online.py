@@ -17,6 +17,7 @@ response = client.chat.completions.create(
         {'role':'user', 'content':[
             {'type':'text', 'text':'siapa dia?'},
             {"type":"image_url", "image_url":{"url":image_url}},
+            {}
         ]}
     ]
 )

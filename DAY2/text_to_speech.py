@@ -6,11 +6,11 @@ from pathlib import Path
 load_dotenv()
 
 client = OpenAI(
-    api_key=os.getenv('OPENAI_API_KEY') # sesuaikan
+    api_key=os.getenv('OPENROUTER_API_KEY') # sesuaikan
 )
-text = "Halo, saya iwan agi berutu"
+text = "ptimasi adalah proses menemukan solusi terbaik (optimal) dari semua kemungkinan solusi yang ada untuk suatu masalah."
 
-audio_file = Path('audio_output_1.mp3')
+audio_file = Path('audio_output1.mp3')
 
 with client.audio.speech.with_streaming_response.create(
     model='gpt-4o-mini-tts',
