@@ -1,0 +1,5 @@
+Laporan Penjualan Hari Ini:
+- handphone: 4
+- ipad: 6
+- laptop: 3
+- charger: 7

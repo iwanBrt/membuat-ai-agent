@@ -1,0 +1,18 @@
+{
+  "handphone": {
+    "harga_beli": 3000000,
+    "harga_jual": 3500000
+  },
+  "ipad": {
+    "harga_beli": 6000000,
+    "harga_jual": 7000000
+  },
+  "laptop": {
+    "harga_beli": 9000000,
+    "harga_jual": 10500000
+  },
+  "charger": {
+    "harga_beli": 150000,
+    "harga_jual": 250000
+  }
+}
